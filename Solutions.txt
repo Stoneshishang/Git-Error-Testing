@@ -1,0 +1,20 @@
+I just tried it, it recreated the same error, this is the solution for it.
+
+https://stackoverflow.com/questions/20939648/issue-pushing-new-code-in-github
+
+Read below answer, avoid using -f flag. Below method works well. 
+
+This is happen when you try to push initially.Because in your GitHub repo have readMe.md or any other new thing which is not in your local repo. First you have to merge unrelated history of your github repo.To do that
+
+git pull origin master --allow-unrelated-histories
+then you can get the other files from repo(readMe.md or any)using this
+
+git pull origin master
+After that
+
+git push -u origin master
+Now you successfully push your all the changes into Github repo.I'm not expert in git but every time these step work for me.
+
+
+
+
