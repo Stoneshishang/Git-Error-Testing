@@ -12,4 +12,4 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
-Chnage something, to test how the git merge works. 
+Chnage something, to test how the git merge works. This is the Master branch.
