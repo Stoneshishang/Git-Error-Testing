@@ -12,6 +12,4 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
-This is branch, I added some change. testing for conflicts.
-
-testing to not keep one this time on branch.
+keep this content with the the content from testing branch.
