@@ -12,8 +12,4 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
-This is master, I added some change. testing for conflict.
-
-testing to keep one this time on master
-
-replace this content with the content from testing branch.
+This 1 should be replace by 2 from branch.
