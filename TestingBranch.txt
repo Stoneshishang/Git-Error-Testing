@@ -1,1 +1,4 @@
-This is a testing for branch before it merges, see how the merge works.
+This is a testing for branch before it merges, see how the merge works. 
+
+main should have no Testingbranch.txt before merge, 
+keyword 'branch' should be the conflict. 
