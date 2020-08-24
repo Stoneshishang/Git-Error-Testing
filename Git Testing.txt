@@ -12,4 +12,4 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
-This 1 should be replace by 2 from branch.
+This 2 should be replace by 3 from branch.
