@@ -14,3 +14,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 This is master, I added some change. testing for conflict.
 
+This is branch, I added some change. testing for conflicts.
+
+testing to keep one this time on master
