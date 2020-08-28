@@ -15,3 +15,6 @@ This 2 should be replace by 3 from branch.
 https://stackoverflow.com/questions/5601931/what-is-the-best-and-safest-way-to-merge-a-git-branch-into-master
 
 This is a testing for git rebase. 
+
+well, I don't think I understood rebase in real life example. need to look back some other time.
+I only understood git merge now.  
