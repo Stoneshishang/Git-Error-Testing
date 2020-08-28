@@ -17,3 +17,5 @@ https://stackoverflow.com/questions/5601931/what-is-the-best-and-safest-way-to-m
 This is the testing for git rebase on feature branch.
 
 this is the added feature.
+
+add the 2nd feature.
