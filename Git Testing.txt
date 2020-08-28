@@ -19,3 +19,10 @@ This is another testing for git rebase.
 this is some changes on master after the feature branch.
 
 this is the 2nd change on master after feature branch.
+This is the testing for git rebase on feature branch.
+
+This is the testing for git rebase on feature branch.
+
+this is the added feature.
+
+add the 2nd feature.
